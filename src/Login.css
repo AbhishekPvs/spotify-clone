@@ -12,7 +12,8 @@
 .login > a{
     padding: 20px;
     border-radius: 99px;
-    background-color: #1DB954;
+    /* color of the spotify button */
+    background-color: #1DB954; 
     font-weight: 300;
     color:white;
     text-decoration: none;
